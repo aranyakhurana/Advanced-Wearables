@@ -8,7 +8,7 @@
  /*
   Aranya Khurana mods:
   1. Lowered delay duration
-  2. Added if condition at the end to release all keys and print blanks lines when nothing is pressed
+  2. Added if condition at the end to release all keys and print blank lines when nothing is pressed
   3. Changed code so that only releasing and pressing keys activates arrow buttons
  */
 
