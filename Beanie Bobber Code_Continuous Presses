@@ -8,7 +8,7 @@
  /*
   Aranya Khurana mods:
   1. Lowered DEBOUNCE and delay
-  2. Added else condition at the end to release all keys and print blanks lines when nothing is pressed
+  2. Added else condition at the end to release all keys and print blank lines when nothing is pressed
  */
 
 #include "Keyboard.h"
